@@ -1,0 +1,11 @@
+# 使用 Passport.JS 串接 Google 第三方登入
+
+建立 .env 檔案
+
+```
+GOOGLE_ID=<YOUR_GOOGLE_APP_ID>
+GOOGLE_SECRET=<YOUR_GOOGLE_APP_SECRET>
+GOOGLE_CALLBACK=<YOUR_GOOGLE_REDIRECT_URI>
+```
+
+執行 npm start
